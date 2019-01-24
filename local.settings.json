@@ -1,0 +1,8 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+        "DefaultConnection":  "Server=(localdb)\\mssqllocaldb;Database=AzFuncEfCoreTest;Trusted_Connection=True;MultipleActiveResultSets=true" 
+    }
+}
